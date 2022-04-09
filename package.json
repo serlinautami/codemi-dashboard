@@ -85,7 +85,7 @@
     "ip": "1.1.5",
     "lodash": "^4.17.20",
     "minimist": "^1.2.5",
-    "moment": "^2.29.1",
+    "moment": "^2.29.2",
     "prop-types": "15.7.2",
     "react": "16.8.6",
     "react-chartjs-2": "^2.10.0",
